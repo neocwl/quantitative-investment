@@ -1,3 +1,4 @@
 .vscode
 stock_daily
 Mysql.session.sql
+__pycache__
